@@ -14,7 +14,7 @@ class FizzBuzz {
         }
     }
 
-    private static int dofizzbuzz(int i) { //GO OVER WHAT THIS MEANS
+    public static int dofizzbuzz(int i) { //GO OVER WHAT THIS MEANS
         // Find out which numbers divide i.
         boolean divisibleBy3 = i % 3 == 0;
         boolean divisibleBy5 = i % 5 == 0;

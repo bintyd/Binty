@@ -3,7 +3,7 @@ package lab1;
 /**
  * Solve the lab1.FizzBuzz challenge.
  */
-class FizzBuzz {
+class FizzBuzz { // this is so funsies 
 
     public static void main(String[] args) {
 
